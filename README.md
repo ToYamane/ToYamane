@@ -33,7 +33,7 @@
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToYamane&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ToYamane&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </td>
 <td>
 <img src="https://streak-stats.demolab.com?user=ToYamane&theme=default&hide_border=true" alt="GitHub Streak" />
@@ -41,7 +41,7 @@
 </tr>
 </table>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ToYamane&theme=flat&no-frame=true&column=6" />
+<img src="https://github-profile-trophy-rust.vercel.app/?username=ToYamane&theme=flat&no-frame=true&column=6" />
 
 </div>
 
